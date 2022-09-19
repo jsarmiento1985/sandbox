@@ -90,7 +90,7 @@ class RegistrosModelo
         $stmt = null;
     }
 
-    // esto es una prueba de commit para james sarmiento
+    
 
     /**
      * Actualizar registro
